@@ -82,7 +82,7 @@ Note : TBD, make link here to "how to contribute to tools documentation"; fill i
 /- An ontoology editor
 
 ## Wishlist and In-Development Tools
-* **ACL Handler** in development? Otto A_A? James Martin? 
+* **ACL Handler** in development? Otto A_A? James Martin? (see also the [AccessControlList React component]( https://github.com/inrupt/solid-react-components/blob/develop/src/lib/classes/access-control-list.js))
 
 ## Archived/Outdated Tools & Libraries
 * **[Solid-client](https://github.com/solid/solid-client)**
