@@ -6,16 +6,6 @@
    * [Vincent's Lib Comparison](https://github.com/inrupt/solid-lib-comparison)
    * [links to CDN releasess](https://github.com/solid/releases)
    * [Tools stub on Platform Page](https://github.com/solid/solid-platform#libraries)
-
-### Tools Not Previously Added
-   * [Soukai-solid by NoelDeMartin](https://github.com/NoelDeMartin/soukai-solid)
-   * [Solid-Rest by Jeff Zucker](https://github.com/jeff-zucker/solid-rest)
-   * [RDF-Easy by Jeff Zucker](https://github.com/jeff-zucker/rdf-easy)
-   * [Solid-Local-Pod-Manager by Otto_A_A](https://github.com/otto-aa/solid-local-pod-manager)
-   
-### Archived/Outdated Tools & Libraries (THESE NEED VERIFICATION OF ARCHIVE STATUS)
-   * [Solid-client](https://github.com/solid/solid-client)
-   * [Node-WebId](https://github.com/solid/solid-client)
    
    
 ### Admin pages
