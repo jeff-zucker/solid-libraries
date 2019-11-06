@@ -48,6 +48,8 @@ Note : TBD, make link here to "how to contribute to tools documentation"; fill i
 * **[RDF-Easy](https://github.com/jeff-zucker/rdf-easy)**
 * **[Soukai-solid](https://github.com/NoelDeMartin/soukai-solid)**
 
+There is also a [cheatsheet](https://vincenttunru.gitlab.io/tripledoc/docs/cheatsheet) and a side-by-side [comparison](https://github.com/inrupt/solid-lib-comparison) that includes some of these.
+
 ## Libraries and Toolkits for React
 
 * **[Solid React Components](https://github.com/solid/react-components)**
